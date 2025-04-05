@@ -5,6 +5,6 @@ Taller en parejas entregable 1
 Introducción a CI/CD con GitHub y GitHub Actions
 
 @autor: Jairo Esteban Santa Cruz
-@autor: Juan Esteban Mena
+@autor: Juan Esteban Mena Mosquera
 
 En este proyecto se ejecuta un hola mundo.
